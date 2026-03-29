@@ -87,9 +87,6 @@ Used MATLAB to plot wavelength vs power:
 * MATLAB
 * Fiber optic measurement systems
 
-## Resume Description
-
-Performed fiber optic signal analysis by measuring optical power, attenuation, and spectral characteristics. Evaluated losses due to splicing and bending, calculated bandwidth parameters, and visualized wavelength-power relationships using MATLAB.
 
 ## System Visualization
 
