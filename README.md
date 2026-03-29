@@ -102,6 +102,10 @@ Performed fiber optic signal analysis by measuring optical power, attenuation, a
 ### Lab Measurement
 ![Lab](images/components_setup.png)
 
+## Code
+
+- [MATLAB Plot Script](code/matlab_plot.m)
+
 ###Spectral Analyzer
 ![Lab](images/spectrum_analyzer.png)
 
